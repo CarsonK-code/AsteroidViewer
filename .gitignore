@@ -75,10 +75,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Unity extra stuff
-/[Ll]ibrary/ 
-/[Tt]emp/ 
-/[Oo]bj/ 
-/[Bb]uild/ 
-/[Bb]uilds/ 
-/[Ll]ogs/ 
-/[Uu]ser[Ss]ettings/
+Asteroids/[Ll]ibrary/ 
+Asteroids/[Tt]emp/ 
+Asteroids/[Oo]bj/ 
+Asteroids/[Bb]uild/ 
+Asteroids/[Bb]uilds/ 
+Asteroids/[Ll]ogs/ 
+Asteroids/[Uu]ser[Ss]ettings/
