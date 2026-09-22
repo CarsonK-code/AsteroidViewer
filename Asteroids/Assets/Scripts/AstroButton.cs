@@ -42,7 +42,7 @@ public class AstroButton : MonoBehaviour, IPointerClickHandler
 
         Debug.Log($"Clicked {jsonData.name}");
 
-        Vector3 SpawnPoint = new Vector3(diameter * 5f, diameter * 65f, diameter * -70f);
+        Vector3 SpawnPoint = new Vector3(diameter * 5f, diameter * 65f, diameter * -60f);
         Vector3 asteroidScale = new Vector3(diameter * 100f, diameter * 100f, diameter * 100f);
         Vector3 targetPos = new Vector3(diameter * -150f, diameter * 70f, diameter * -65f);
 
